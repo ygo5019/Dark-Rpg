@@ -1,0 +1,5 @@
+{
+  "name": "Dark RPG React",
+  "description": "A dark-themed idle RPG game ported to React. Feature dungeons, training, and item management.",
+  "requestFramePermissions": []
+}
